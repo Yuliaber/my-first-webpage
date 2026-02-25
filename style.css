@@ -1,0 +1,83 @@
+body {
+
+  font-family: sans-serif;
+
+  max-width: 80%;
+
+  margin: auto;
+
+  padding: 5%;
+
+  background-color: OldLace;
+
+  color: Black;
+
+}
+
+h1 {
+
+  font-size: 2.4em;
+
+  color: MidnightBlue;
+
+  text-align: center;
+
+  text-transform: uppercase;
+
+  border-bottom: thick solid Gold;
+
+  padding-bottom: 0.5em;
+
+}
+
+h3 {
+
+  font-size: 1.4em;        
+
+  color: FireBrick;
+
+  text-align: center;
+
+  margin-top: 2em;
+
+  margin-bottom: 1em;
+
+}
+
+p {
+
+  background: White;
+
+  padding: 1em;
+
+  border-radius: 0.5em;
+
+}
+
+ul {
+
+  background-color: MintCream;
+
+  padding: 1.5em;
+
+  border-radius: 1em;
+
+  list-style-type: "🐾 ";
+
+  color: DarkGreen;
+
+}
+
+img {
+
+  max-width: 70%;
+
+  display: block;
+
+  margin: 2em auto;
+
+  border-radius: 1em;
+
+  border: medium solid Silver;
+
+}
